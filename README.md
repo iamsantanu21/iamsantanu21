@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamsantanu21
+- 👋 Hi, I’m Santanu Mondal
 - 👀 I’m interested in ...those people who are passionate about computer science.
 - 🌱 I’m currently learning ... Various aspects of python.
 - 💞️ I’m looking to collaborate on ... Any topic related on Computer Science.
