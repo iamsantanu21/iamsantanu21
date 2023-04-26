@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Santanu Mondal
 - 👀 I’m interested in ...those people who are passionate about computer science.
-- 🌱 I’m currently learning ... Various aspects of python.
+- 🌱 I’m currently learning ... Various aspects of Blockchain.
 - 💞️ I’m looking to collaborate on ... Any topic related on Computer Science.
 - 📫 How to reach me ... iamsantanu21@gmail.com or +91 9593916848 or https://sites.google.com/view/santanumondal/
 
